@@ -1,6 +1,4 @@
 "use strict";
-/*Workin better code*/
-/* x=word y=newWord */
 var word = prompt("Enter possiable palindrome")
 var palindromeFunction= function(word){
 word = word.toLowerCase();
